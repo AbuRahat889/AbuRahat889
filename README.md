@@ -1,4 +1,4 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Rahat. I do open source!" src="https://i.ibb.co/Px94hNW/bannar.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Rahat. I do open source!" src="https://ibb.co.com/zZHTxm9" /></a></p>
 
 <br />
 
