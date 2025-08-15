@@ -1,31 +1,39 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Rahat. I do open source!" src="https://i.ibb.co.com/t3755rk/banner.png" /></a></p>
+<p align="center">
+  <a href="https://anuraghazra.github.io">
+    <img width="80%" alt="Hello, I'm Rahat. I do open source!" src="https://i.ibb.co.com/t3755rk/banner.png" />
+  </a>
+</p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from Bangladesh 🇮🇳
+I'm a self-taught passionate FrontEnd developer from Bangladesh 🇧🇩
 
 **About me** <br/>
 My name is Abu Rahat, and I am a dedicated frontend web developer. With a passion for crafting visually appealing and highly functional user interfaces, I specialize in translating design concepts into interactive, user-friendly web experiences.
 
-- 📈 Built github-readme-stats, verlyjs and more,
+- 📈 Built github-readme-stats, verlyjs, and more  
+- ❤️ I love writing JavaScript, and building fun experiments  
+- 💬 Ask me about anything [here](mailto:aburahatshaum889@gmail.com)
 
-- ❤️ I love writing javascript, and building fun experiments
+---
 
-- 💬 Ask me about anything [here](aburahatshaum889@gmail.com)
+### Languages & Tools
 
-  
-<code><img height="20" alt="javascript" src="https://i.ibb.co/LZnBKhn/html.jpg"></code>
-<code><img height="20" alt="javascript" src="https://i.ibb.co/bJj0D9r/css.png"></code>
-<code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" alt="react" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" alt="nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>    
+<code><img height="20" alt="HTML" src="https://i.ibb.co/LZnBKhn/html.jpg"></code>
+<code><img height="20" alt="CSS" src="https://i.ibb.co/bJj0D9r/css.png"></code>
+<code><img height="20" alt="JavaScript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" alt="Node.js" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 
+---
 
-  
+### GitHub Stats
 
-
-  
-  
-  
-  | <a href="https://github.com/AbuRahat889"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbuRahat889&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahat's github stats" /></a> | <a href="https://github.com/AbuRahat889"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRahat889&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/AbuRahat889"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbuRahat889&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahat's github stats" /></a> | <a href="https://github.com/AbuRahat889"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRahat889&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+
+---
+
+### Total GitHub Contributions
+
+**Public + Private (all commits, PRs, issues, all branches):** `UPDATE_WITH_TOTAL_CONTRIBUTIONS`
