@@ -34,8 +34,6 @@ My name is Abu Rahat, and I am a dedicated frontend web developer. With a passio
 
 ---
 
-### Contributions Graph
+### Total GitHub Contributions
 
-![Abu Rahat's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=AbuRahat889&theme=react-dark)
-
-> This shows your **public contributions** in a visual graph. Private contributions require a custom setup with GitHub Actions and GraphQL API.
+**Public + Private (all commits, PRs, issues, all branches):** `UPDATE_WITH_TOTAL_CONTRIBUTIONS`
