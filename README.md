@@ -23,9 +23,6 @@ My name is Abu Rahat, and I am a dedicated frontend web developer. With a passio
 
   
 
-  
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AbuRahat889&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahat's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRahat889&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
 
   
   
