@@ -9,7 +9,7 @@
 <h2 align="center">Hi, I'm Abu Rahat 👋</h2>
 
 <p align="center">
-  <b>Frontend-focused Full Stack Developer | React.js | Next.js | TypeScript</b>
+  <b>Full Stack Developer | React.js | Next.js | TypeScript | NOde.js</b>
 </p>
 
 <p align="center">
@@ -61,9 +61,6 @@ I enjoy building applications from the ground up, solving real-world engineering
 
 <p align="center"> <img src="https://streak-stats.demolab.com?user=AbuRahat889&theme=tokyonight&hide_border=true" alt="Rahat's GitHub Streak" /> </p>
 
-📈 Contribution Graph
-
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuRahat889&theme=tokyo-night&hide_border=true&area=true" alt="Rahat's Contribution Graph" /> </p>
 
 🐍 Contribution Snake
 
