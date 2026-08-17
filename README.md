@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a **Frontend-focused Full Stack Developer** with **2 years of professional experience** building modern, scalable, and user-friendly web applications.
+I'm a **Full Stack Developer** with **2 years of professional experience** building modern, scalable, and user-friendly web applications.
 
 Currently working at **SM Technology**, where I work on production web applications using the **MERN stack**, with a strong focus on frontend development, API integration, and delivering responsive user experiences.
 
