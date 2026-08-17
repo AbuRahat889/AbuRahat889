@@ -53,16 +53,21 @@ I enjoy building applications from the ground up, solving real-world engineering
 
 ---
 
-### 📊 GitHub Stats
+📊 GitHub Stats
 
-<p align="center">
-  <a href="https://github.com/AbuRahat889">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbuRahat889&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Rahat's GitHub stats" />
-  </a>
-  <a href="https://github.com/AbuRahat889">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRahat889&layout=compact&theme=buefy&hide_border=true" alt="Rahat's top languages" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AbuRahat889&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Rahat's GitHub Stats" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbuRahat889&layout=compact&theme=tokyonight&hide_border=true&count_private=true" alt="Rahat's Top Languages" height="180" /> </p>
+
+🔥 GitHub Streak
+
+<p align="center"> <img src="https://streak-stats.demolab.com?user=AbuRahat889&theme=tokyonight&hide_border=true" alt="Rahat's GitHub Streak" /> </p>
+
+📈 Contribution Graph
+
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=AbuRahat889&theme=tokyo-night&hide_border=true&area=true" alt="Rahat's Contribution Graph" /> </p>
+
+🐍 Contribution Snake
+
+<p align="center"> <img src="https://raw.githubusercontent.com/AbuRahat889/AbuRahat889/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" /> </p>
 
 ---
 
